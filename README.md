@@ -14,6 +14,7 @@ This is a command-line tool for tracking time spent on the tasks and projects.
 - TypeScript
 - Node.js
 - React
+- Jest
 
 ## Installation
 
